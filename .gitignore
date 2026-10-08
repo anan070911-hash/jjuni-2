@@ -1,0 +1,32 @@
+# Visual Studio temporary files, build outputs, and caches
+.vs/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa]rm/
+[Aa]rm64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Visual Studio user specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio build artifacts
+*.obj
+*.ilk
+*.pdb
+*.tlog
+*.recipe
+*.log
+*.idb
+*.lastbuildstate
+*.exe
+*.dll
+*.lib
